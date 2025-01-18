@@ -79,7 +79,7 @@ isis-routing-simulator/
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
+Contributions are welcome! Please follow these steps:
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
@@ -87,15 +87,17 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## Future Enhancements
+For major changes, please open an issue first to discuss what you would like to change.
 
-- Area support and level-specific routing
-- LSP generation and flooding
-- Dynamic neighbor discovery
-- Authentication mechanisms
-- Multiple metrics support
-- Route summarization
-- GUI interface
+## Roadmap
+
+- [ ] Area support and level-specific routing
+- [ ] LSP generation and flooding
+- [ ] Dynamic neighbor discovery
+- [ ] Authentication mechanisms
+- [ ] Multiple metrics support
+- [ ] Route summarization
+- [ ] GUI interface
 
 ## License
 
@@ -103,10 +105,10 @@ This project is licensed under the MIT License - see the [LICENSE](https://rem.m
 
 ## Contact
 
-Your Name - [@mnketani](https://www.linkedin.com/in/mweetwa-nketani-a62825212?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+Mweetwa Nketani - [@mnketani](https://www.linkedin.com/in/mweetwa-nketani-a62825212)
 
 Project Link: [https://github.com/N3gus/IS_IS](https://github.com/N3gus/IS_IS)
 
 ---
 
-Feel free to ⭐️ the repo if you find this useful!
+⭐️ If you find this project useful, please consider giving it a star!
