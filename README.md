@@ -30,7 +30,7 @@ The IS-IS Routing Protocol Simulator is an educational tool designed to demonstr
 3. Install required dependencies, i.e matplotlib.
 
 
-## Usage
+## Usag e
 
 1. Start the simulator.
 2. Use the interactive menu to:
