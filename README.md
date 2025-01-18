@@ -103,9 +103,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [@yourusername](https://www.linkedin.com/in/mweetwa-nketani-a62825212?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+Your Name - [@mnketani](https://www.linkedin.com/in/mweetwa-nketani-a62825212?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
-Project Link: [https://github.com/yourusername/isis-routing-simulator](https://github.com/yourusername/isis-routing-simulator)
+Project Link: [https://github.com/N3gus/IS_IS](https://github.com/N3gus/IS_IS)
 
 ---
 
